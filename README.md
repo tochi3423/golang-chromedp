@@ -1,1 +1,2 @@
-# golang-chromedp
+# chromedpをつかってgolangでスクレイピング
+  - chromedpをgo getすれば使える
